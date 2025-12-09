@@ -60,32 +60,7 @@ export default function RectangleBox() {
           </div>
         </div>
 
-        {/* ⭐ NEW SECTION ADDED HERE ⭐ */}
-        <div className="Trust">
-          <div className="child01">
-            <p>
-              100+ <br /> colleges
-            </p>
-          </div>
-
-          <div className="child02">
-            <p>
-              150 <br /> Professionals
-            </p>
-          </div>
-
-          <div className="child03">
-            <p>
-              1000+ <br /> Study Materials
-            </p>
-          </div>
-
-          <div className="child04">
-            <p>
-              10,00,000 <br /> Students
-            </p>
-          </div>
-        </div>
+        
 
         <div className="pill-box">
           <h1>Learners Today, Leaders Tomorrow</h1>

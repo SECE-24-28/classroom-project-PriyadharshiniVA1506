@@ -11,7 +11,7 @@ import {
 const TrustedbyComponent = () => {
   return (
     <TrustedByStyle>
-      <h1>Trusted By</h1>
+      <h1 style={{ color: 'black' }}>Trusted By</h1>
 
       <div className="element">
 
@@ -19,8 +19,8 @@ const TrustedbyComponent = () => {
         <div className="sc-dtBdUo">
           <div className="sc-dtInlm">
             <div className="sc-cWSHoV">
-              <div className="value">100+</div>
-              <div className="name">COLLEGES </div>
+              <div className="value" style={{ color: 'black' }}>100+</div>
+              <div className="name" style={{ color: 'black' }}>COLLEGES </div>
             </div>
           </div>
           <div className="eHqdkl"></div>
@@ -36,8 +36,8 @@ const TrustedbyComponent = () => {
           <div className="eHqdkl"></div>
           <div className="sc-dtInlm">
             <div className="sc-cWSHoV">
-              <div className="value">150</div>
-              <div className="name">PROFESSIONAL TRAINERS</div>
+              <div className="value" style={{ color: 'black' }}>150</div>
+              <div className="name" style={{ color: 'black' }}>PROFESSIONAL TRAINERS</div>
             </div>
           </div>
           <div className="sc-kOHTFB bottom">
@@ -51,8 +51,8 @@ const TrustedbyComponent = () => {
         <div className="sc-dtBdUo">
           <div className="sc-dtInlm">
             <div className="sc-cWSHoV">
-              <div className="value">1000+</div>
-              <div className="name">STUDY MATERIALS</div>
+              <div className="value" style={{ color: 'black' }}>1000+</div>
+              <div className="name" style={{ color: 'black' }}>STUDY MATERIALS</div>
             </div>
           </div>
           <div className="eHqdkl"></div>
@@ -68,8 +68,8 @@ const TrustedbyComponent = () => {
           <div className="eHqdkl"></div>
           <div className="sc-dtInlm">
             <div className="sc-cWSHoV">
-              <div className="value">1,00,000</div>
-              <div className="name">STUDENTS</div>
+              <div className="value" style={{ color: 'black' }}>1,00,000</div>
+              <div className="name" style={{ color: 'black' }}>STUDENTS</div>
             </div>
           </div>
           <div className="sc-kOHTFB bottom">
@@ -82,6 +82,6 @@ const TrustedbyComponent = () => {
       </div>
     </TrustedByStyle>
   );
-};
+}; 
 
 export default TrustedbyComponent;

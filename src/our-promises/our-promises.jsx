@@ -15,8 +15,8 @@ const OurPromisesComponent = () => {
   return (
     <OurPromisesStyle>
       <div className="paras">
-        <h1>Our Promise</h1>
-        <p>
+        <h1 style={{ color: 'black' }}>Our Promise</h1>
+        <p style={{ color: 'black' }}>
           As part of our high quality service, we'd like to offer something
           extra too.
         </p>
